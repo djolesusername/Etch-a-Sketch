@@ -1,0 +1,33 @@
+#container {
+  width: 960px;
+  height: 960px;
+  background-color: rgb(91, 17, 160);
+  display: grid;
+  margin-left: 20%;
+  border: 6px solid skyblue;
+}
+div {
+  background-color: white;
+  border: 1px solid blueviolet;
+}
+body {
+  background-color: rgb(91, 17, 160);
+}
+#buttons {
+  float: right;
+  background-color: rgb(91, 17, 160);
+}
+button {
+  color: white;
+  font-size: 23px;
+  padding: 18px;
+  background-color: rgb(91, 17, 160);
+}
+button:hover {
+  background-color: skyblue;
+  font-size: 28px;
+}
+h1 {
+  text-align: center;
+  color: white;
+}
